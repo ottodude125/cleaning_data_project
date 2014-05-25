@@ -1,4 +1,4 @@
-run_analysis <- function() {
+RunAnalysis <- function() {
   
   ##### 1) MERGE TRAINING AND TEST SETS TO CREATE ONE DATA SET #####
   
